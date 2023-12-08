@@ -1,0 +1,22 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "fake backend for CRUD APIs",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "fake",
+    "backend",
+    "json",
+    "server"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
